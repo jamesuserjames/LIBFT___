@@ -100,5 +100,4 @@ int	main(void)
 	}
 	free(str);
 	return (0);
-
 }
